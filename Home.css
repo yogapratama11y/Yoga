@@ -1,0 +1,160 @@
+ .u-section-1 {
+  min-height: 883px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 112px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 351px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 9px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 10px auto 0;
+  padding: 18px 137px 18px 136px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 10px auto 0;
+  padding: 18px 126px 18px 125px;
+}
+
+.u-section-1 .u-btn-3 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 10px auto 0;
+  padding: 18px 122px 18px 121px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 351px;
+  background-image: url("images/CaraMembuatBackgroundGambardiBelakangTulisanBlog.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-layout-wrap-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 420px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0 30px 30px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 420px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 8px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 634px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 289px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 289px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 346px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 563px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 221px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 680px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 663px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 588px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 417px;
+  }
+}
